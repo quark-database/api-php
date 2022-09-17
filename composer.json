@@ -1,0 +1,19 @@
+{
+    "name": "anafro/quark-api",
+    "description": "The Quark API for PHP developers.",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Anafro\\QuarkApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anatoly Frolov",
+            "email": "contact@anafro.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
